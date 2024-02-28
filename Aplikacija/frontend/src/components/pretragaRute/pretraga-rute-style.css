@@ -1,0 +1,215 @@
+.prtragaRute-container {
+  display: flex;
+  height: 100vh;
+}
+
+.prtragaRute-container .main .route-item {
+  max-width: 26rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.prtragaRute-container .main {
+  flex: 1;
+  padding: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* div u .pretragaRute-conainer .main */
+.prtragaRute-container .pretraga-route-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-items: center;
+  align-items: start;
+  flex-shrink: 0;
+  height: 100%;
+  overflow-y: scroll;
+  padding-left: 20px;
+}
+
+.prtragaRute-container .sidebar {
+  flex: 0 0 35%;
+  background-color: #e6e6e6;
+}
+
+.prtragaRute-container .sidebar .pretraga--sidebar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.prtragaRute-container .sidebar .zaSenku {
+  width: 80%;
+  height: 90%;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.prtragaRute-container .pretraga--sidebar .logo {
+  display: flex;
+  justify-content: center;
+}
+
+.prtragaRute-container .pretraga--sidebar .logo img {
+  width: 70%;
+  margin-top: 1%;
+}
+
+.prtragaRute-container .pretraga--sidebar .poZnamenitosti,
+.prtragaRute-container .pretraga--sidebar .poImenuRute,
+.prtragaRute-container .pretraga--sidebar .poImenuVodica,
+.prtragaRute-container .pretraga--sidebar .sort {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.prtragaRute-container .pretraga--sidebar .poZnamenitosti h2,
+.prtragaRute-container .pretraga--sidebar .poImenuRute h2,
+.prtragaRute-container .pretraga--sidebar .poImenuVodica h2,
+.prtragaRute-container .pretraga--sidebar .sort h2 {
+  color: #1a5685;
+  font-style: italic;
+}
+
+.react-autosuggest__container {
+  position: relative;
+}
+
+.react-autosuggest__input {
+  width: fit-content;
+  height: 20px;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #344a62;
+  border: 1px solid #344a62;
+  border-radius: 20px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.react-autosuggest__input:focus {
+  outline: none;
+}
+
+.react-autosuggest__container--open .react-autosuggest__input {
+  outline: none;
+  list-style-type: none;
+}
+
+.react-autosuggest__suggestions-container {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border-radius: 20px;
+  z-index: 2;
+}
+
+.react-autosuggest__suggestion {
+  cursor: pointer;
+  padding: 10px 5px;
+  list-style-type: none;
+}
+
+.react-autosuggest__suggestion:hover {
+  background-color: #3778aa71;
+}
+
+.prtragaRute-container .pretraga-div-checkbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15%;
+}
+
+.prtragaRute-container .pretraga-div-checkbox div input {
+  display: none;
+}
+
+.prtragaRute-container .pretraga-div-checkbox div label {
+  border: 2px solid
+    /*#1a5685*/
+    #344a62;
+  cursor: pointer;
+  padding: 8px 12px;
+  display: block;
+  border-radius: 20px;
+  font-weight: 600;
+  color: #344a62;
+  margin: 2%;
+}
+
+.prtragaRute-container .pretraga-div-checkbox div #muzej:checked~label[for="muzej"],
+.prtragaRute-container .pretraga-div-checkbox div #park:checked~label[for="park"],
+.prtragaRute-container .pretraga-div-checkbox div #restoran:checked~label[for="restoran"],
+.prtragaRute-container .pretraga-div-checkbox div #galerija:checked~label[for="galerija"],
+.prtragaRute-container .pretraga-div-checkbox div #crkva:checked~label[for="crkva"],
+.prtragaRute-container .pretraga-div-checkbox div #dzamija:checked~label[for="dzamija"],
+.prtragaRute-container .pretraga-div-checkbox div #spomenik:checked~label[for="spomenik"],
+.prtragaRute-container .pretraga-div-checkbox div #tvrdjava:checked~label[for="tvrdjava"] {
+  background-color: #2e6d9c;
+  color: #fff;
+}
+
+.prtragaRute-container .sort {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.prtragaRute-container .sort>div {
+  border: 2px solid #344a62;
+  margin: 1%;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  color: #344a62;
+  font-weight: bold;
+}
+
+.prtragaRute-container .sort>div:hover {
+  background-color: #2e6d9c;
+  color: #fff;
+}
+
+.prtragaRute-container .create-route {
+  position: fixed;
+  bottom: 3%;
+  right: 3%;
+  background-color: #2e6d9c;
+  margin: 0;
+  border-radius: 50px;
+}
+
+.prtragaRute-container .create-route p {
+  margin: 0;
+  padding: 15px 24px;
+  font-weight: bolder;
+  font-size: 28px;
+  color: #fff;
+}
+
+.prtragaRute-container .create-route:hover {
+  background-color: #01a0c7;
+}

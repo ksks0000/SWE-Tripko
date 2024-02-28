@@ -1,0 +1,509 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+:root {
+    --linear-grad: linear-gradient(to right, #243B55, #2e6d9c);
+    --clr1: #243B55;
+    --clr2: #2e6d9c;
+    --clr3: #00a0c7;
+    /*#2a5555
+    #244848*/
+    /*#1d3636
+    #326262*/
+    /* plave: #141E30, #243B55 */
+}
+
+.profile-container
+
+/*body*/
+    {
+    margin: 0;
+    background-image: url("../images/background.jpg");
+    background-color: #f3f3f3;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+}
+
+.profile-container .container {
+    background-color: var(--clr2);
+    /*border: 5px solid var(--clr3);*/
+    border-radius: 20px;
+    height: 600px;
+    width: 800px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    box-shadow: 15px 20px 50px #5557;
+}
+
+.profile-container .form-div {
+    background-color: #fff;
+    border-radius: 20px;
+    height: 100%;
+    width: 65%;
+}
+
+.profile-container .profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+}
+
+.profile-container .hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-container .hero .image {
+    background-color: #fff;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.profile-container .hero .image img {
+    width: 101px;
+    height: 101px;
+    border-radius: 50%;
+}
+
+.profile-container .hero div {
+    text-align: center;
+}
+
+.profile-container .hero div h3,
+.hero div h4 {
+    color: #fff;
+}
+
+.profile-container .settings {
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-container .settings button {
+    transition: 80ms ease-in;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    background: var(--clr2);
+    color: #FFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    cursor: pointer;
+}
+
+.profile-container .settings button:hover {
+    background: #fff;
+    color: var(--clr1);
+}
+
+.profile-container #Delete-account {
+    position: relative;
+    top: 21%;
+}
+
+.profile-container #Delete-account2 {
+    position: relative;
+    top: 13%;
+}
+
+.profile-container #Delete-account:hover,
+#Delete-account2:hover {
+    background-color: #903a3a;
+    color: #fff;
+}
+
+.profile-container #Promote-to-powerguide {
+    position: relative;
+    top: 18%;
+    padding: 12px 30px;
+}
+
+.profile-container #Change-password {
+    position: relative;
+    top: 15%;
+    padding: 12px 36px;
+}
+
+.profile-container #Change-password2 {
+    position: relative;
+    top: 8%;
+    padding: 12px 36px;
+}
+
+.profile-container .form-div button {
+    margin-top: 35px;
+    transition: 80ms ease-in;
+    border-radius: 20px;
+    border: 1px solid var(--clr1);
+    background: var(--clr2);
+    color: #FFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    cursor: pointer;
+}
+
+.profile-container .form-div button:hover {
+    background: #fff;
+    color: var(--clr1);
+}
+
+.profile-container .form-div form {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.profile-container .form-div form h1 {
+    color: var(--clr1);
+}
+
+.profile-container .infield {
+    position: relative;
+    margin: 8px 0px;
+    width: 100%;
+}
+
+.profile-container .input-profile {
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+    padding: 12px 15px;
+    width: 90%;
+}
+
+.profile-container select {
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+    padding: 12px 15px;
+    width: 97%;
+}
+
+.profile-container .form-div form label {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    transform: translateX(-50%);
+    width: 0%;
+    height: 2px;
+    background: var(--linear-grad);
+    transition: 0.3s;
+}
+
+.profile-container .form-div form .input-profile:focus~label {
+    width: 97%;
+}
+
+.profile-container #Birth-and-gender-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-container #Birth-and-gender-div .input-profile {
+    position: relative;
+    left: 5%;
+    width: 150%;
+}
+
+.profile-container #Birth-and-gender-div select {
+    position: relative;
+    right: 55%;
+    width: 150%;
+}
+
+.profile-container #Birth-underline {
+    left: 31%;
+}
+
+.profile-container #Gender-input-div .input-profile:focus~label {
+    width: 59%;
+}
+
+.profile-container .popup,
+.profile-container .popupPassword {
+    width: 400px;
+    border: 170px solid
+        /*var(--clr2)*/
+        #f3f3f3;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform 0.4s, top 0.4s;
+    text-align: center;
+    padding: 0 30px 30px;
+    color: var(--clr1);
+    visibility: hidden;
+}
+
+.profile-container .open-popup,
+.profile-container .open-popupPassword {
+    visibility: visible;
+    top: 50%;
+    z-index: 2;
+}
+
+.profile-container .popup h2,
+.profile-container .popupPassword h2 {
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+}
+
+.profile-container .popup button,
+.profile-container .popupPassword button {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-left: 10px;
+    padding: 10px 0;
+    color: #fff;
+    background: var(--clr2);
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid var(--clr2);
+}
+
+.profile-container .popup a {
+    width: 100%;
+}
+
+.profile-container .popup #Delete-no,
+.profile-container .popupPassword #ChangePassword-back {
+    color: var(--clr1);
+    background: #fff;
+}
+
+.profile-container .popup div div,
+.profile-container .popupPassword div div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-container .settings div label {
+    display: block;
+    width: 14%;
+    background-color: var(--clr2);
+    color: #fff;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    transition: 80ms ease-in;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    text-align: center;
+}
+
+.profile-container .settings div .input-profile {
+    display: none;
+}
+
+.profile-container .settings div label:hover {
+    background: #fff;
+    color: var(--clr1);
+}
+
+.profile-container #Void {
+    display: none;
+}
+
+.profile-container #Toggle-password {
+    position: absolute;
+    bottom: 44%;
+    right: 5%;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+    .profile-container .container {
+        flex-direction: column;
+        width: 500px;
+    }
+
+    .profile-container .form-div {
+        width: 100%;
+    }
+
+    .profile-container .form-div button {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .profile-container .settings div label {
+        display: none;
+    }
+
+    .profile-container
+
+    /*body*/
+        {
+        background-image: none;
+        background-color: #f0f9ff;
+    }
+
+    .profile-container .profile {
+        flex-direction: row;
+    }
+
+    .profile-container .hero {
+        flex-direction: row;
+    }
+
+    .profile-container .image {
+        position: absolute;
+        top: -1%;
+        left: 5%;
+    }
+
+    .profile-container .hero div h3 {
+        position: absolute;
+        left: 27%;
+        top: 2%;
+        font-size: medium;
+    }
+
+    .profile-container .hero div h4 {
+        display: none;
+    }
+
+    .profile-container #Void {
+        display: block;
+        position: relative;
+        left: 350%;
+        top: 0;
+        height: 40px;
+        cursor: default;
+        border: none;
+    }
+
+    .profile-container #Void:hover {
+        background-color: var(--clr2);
+    }
+
+    .profile-container #Delete-account,
+    .profile-container #Delete-account2 {
+        position: absolute;
+        top: 83%;
+        left: 15%;
+        background-color: #fff;
+        color: #c10e0e;
+        width: auto;
+        height: auto;
+        padding: 10px;
+    }
+
+    .profile-container #Change-password,
+    .profile-container #Change-password2 {
+        display: none;
+    }
+
+    .profile-container #Save-changes-button {
+        align-self: flex-end;
+    }
+
+    .profile-container #Promote-to-powerguide {
+        display: none;
+    }
+
+    .profile-container .container a {
+        position: absolute;
+        left: 80%;
+    }
+}
+
+.profile-container a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    position: absolute;
+    bottom: 92%;
+    left: 2%;
+    z-index: 1;
+}
+
+.profile-container a:hover {
+    background-color: #ddd;
+    color: var(--clr1);
+}
+
+.profile-container .previous {
+    background-color: var(--clr2);
+    color: #fff;
+    border-radius: 40%;
+}
+
+.profile-container .kalsa {
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+    padding: 12px 15px;
+    width: 90%;
+}
+
+.profile-container .pass-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-container .pass-div input {
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+    border-radius: 20px;
+    border: 1px solid #2e6d9c;
+    margin-left: 5px;
+}

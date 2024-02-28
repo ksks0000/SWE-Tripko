@@ -1,0 +1,291 @@
+.routeCard-container * {
+    box-sizing: border-box;
+}
+
+.routeCard-container {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    width: 350px;
+    font-size: 12px;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/*.cards-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}*/
+
+.routeCard-container .card-image {
+    width: 100%;
+    border-radius: 9px;
+    margin-bottom: 9px;
+}
+
+.routeCard-container .card-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    top: 195px;
+    background-color: #4a4949ad;
+    border-radius: 10px;
+    padding-right: 6px;
+}
+
+.routeCard-container .creator-image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 45%;
+    left: 3%;
+    z-index: 5;
+}
+
+.routeCard-container .card-footer .creator {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px 7px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 17px;
+    padding-left: 100px;
+}
+
+.routeCard-container .card-footer .guide-stars {
+    border: 1px solid red;
+}
+
+.routeCard-container .card-footer-guide {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    top: 200px;
+    background-color: #4a4949ad;
+    border-radius: 10px;
+    padding-right: 6px;
+}
+
+.routeCard-container .card-footer-guide p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px 7px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    margin: 0;
+    padding-left: 190px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+/*
+.routeCard-container .routeName-city {
+    
+}
+.routeCard-container .routeDate-routePrice {
+    
+}
+.routeCard-container .freeSeats-routeRate-guideRate {
+
+}
+*/
+
+.routeCard-container .card-header {
+    position: absolute;
+    /* right: 230px; */
+    right: 6px;
+    top: 6px;
+    left: 6px;
+    background-color: #ffffffc5;
+    padding: 5px 7px;
+    border-radius: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    z-index: 2;
+}
+
+.routeCard-container .card-header p {
+    cursor: pointer;
+    margin: 6px;
+}
+
+.routeCard-container .route-caption {
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #fff;
+}
+
+.routeCard-container .route-caption-heading {
+    font-size: 1.5rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.routeCard-container .route-caption-subheading {
+    font-style: italic;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 14px;
+}
+
+.routeCard-container .img-fluid {
+    max-width: 100%;
+    height: 235px;
+    border-radius: 5%;
+}
+
+.routeCard-container .route-caption {
+    cursor: pointer;
+}
+
+.routeCard-container .route-caption:hover {
+    background-color: #2e6c9c6a;
+    border-radius: 10px;
+}
+
+.routeCard-container .popup,
+.routeCard-container .popup-publish {
+    display: none;
+}
+
+.routeCard-container .open-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: #ffffffc5;
+    border-radius: 10px;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 245px;
+    padding-top: 43px;
+}
+
+.routeCard-container .open-popup-publish {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: #3c3b3be9;
+    border-radius: 10px;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 203px;
+    padding-top: 25px;
+}
+
+.routeCard-container .open-popup>div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.routeCard-container .open-popup-publish form {
+    padding-bottom: 35px;
+}
+
+.routeCard-container .open-popup-publish form div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.routeCard-container .open-popup-publish form div input {
+    width: 60px;
+    margin: 2px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.routeCard-container .open-popup-publish form div .date {
+    width: 120px;
+}
+
+.routeCard-container .open-popup-publish form div p {
+    color: #fff;
+}
+
+.routeCard-container .open-popup div p,
+.routeCard-container .open-popup-publish div p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.routeCard-container .open-popup-publish form div button {
+    position: absolute;
+    left: 18%;
+    font-size: large;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    top: 82%;
+    padding: 2px 36px;
+    cursor: pointer;
+    width: 215px;
+}
+
+.routeCard-container .card-header-private,
+.routeCard-container .card-header-public {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffffc5;
+    padding: 6px 20px;
+    border-radius: 10px;
+}
+
+.routeCard-container .card-header-private button,
+.routeCard-container .card-header-public button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: transparent;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.routeCard-container .card-header-private button:hover,
+.routeCard-container .card-header-public button:hover {
+    color: var(--clr2);
+}
+
+.routeCard-container .rate-button {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    z-index: 5;
+    font-size: large;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 2px 36px;
+    cursor: pointer;
+}

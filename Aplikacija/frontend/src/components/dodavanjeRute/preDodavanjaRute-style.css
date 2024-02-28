@@ -1,0 +1,201 @@
+.preDodavanjaRute-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b7ebff;
+    /*background-image: url("../images/preCreateRoute.jpg");*/
+}
+
+.preDodavanjaRute-container .image-div .logo-div {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 300px;
+}
+
+.preDodavanjaRute-container .input-div .logo-div img {
+    width: 100%;
+    height: auto;
+}
+
+.preDodavanjaRute-container .image-div {
+    height: 100%;
+    width: 60%;
+    display: flex;
+}
+
+.preDodavanjaRute-container .image-div img {
+    width: 100%;
+    height: 80%;
+    bottom: 0;
+    right: 0;
+    align-self: flex-end;
+}
+
+.preDodavanjaRute-container .input-div .h3 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 68px;
+    margin-left: 12%;
+    color: #085b7d;
+    margin-bottom: 10%;
+    margin-right: 25%;
+}
+
+.preDodavanjaRute-container .input-div .h3 .route-word {
+    color: #1985dd;
+}
+
+.preDodavanjaRute-container .input-div .city-div,
+.preDodavanjaRute-container .input-div .routeName-div,
+.preDodavanjaRute-container .input-div .routeDate-div,
+.preDodavanjaRute-container .input-div .routeEndDate-div {
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.preDodavanjaRute-container .input-div p {
+    color: #085b7d;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: large;
+    margin-right: 15px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    text-align: right;
+}
+
+.preDodavanjaRute-container .input-div input {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: none;
+    outline-color: #1985dd;
+    padding-left: 5px;
+}
+
+.preDodavanjaRute-container .input-div .city-select {
+    width: 70%;
+}
+
+.preDodavanjaRute-container .input-div .routeName-div input {
+    width: 55%;
+    background-color: #fefefe;
+}
+
+.preDodavanjaRute-container .input-div .routeDate-div input {
+    width: 49%;
+    background-color: #fefefe;
+}
+
+.preDodavanjaRute-container .input-div .routeEndDate-div input {
+    width: 49%;
+    background-color: #fefefe;
+    margin-left: 6px;
+}
+
+.preDodavanjaRute-container .input-div .createRoute-button {
+    cursor: pointer;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    color: #fff;
+    background-color: #1985dd;
+    border-radius: 10px;
+    border: none;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.preDodavanjaRute-container .input-div .createRoute-button:hover {
+    background-color: #085b7d;
+}
+
+.preDodavanjaRute-container a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 100;
+    cursor: pointer;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.preDodavanjaRute-container a:hover {
+    background-color: #085b7d;
+    color: #fefefe;
+}
+
+.preDodavanjaRute-container .previous {
+    background-color: #b7ebff;
+    /* border: 1px solid #085b7d; */
+    color: #085b7d;
+    border-radius: 40%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .preDodavanjaRute-container {
+        flex-direction: column;
+    }
+
+    .preDodavanjaRute-container .image-div {
+        display: none;
+    }
+
+    .preDodavanjaRute-container .input-div {
+        height: 100%;
+        width: 100%;
+    }
+
+    .preDodavanjaRute-container .input-div .h3,
+    .preDodavanjaRute-container .input-div .createRoute-button {
+        position: relative;
+        top: 20%;
+        left: 10
+    }
+
+    .preDodavanjaRute-container .input-div .city-div,
+    .preDodavanjaRute-container .input-div .routeName-div,
+    .preDodavanjaRute-container .input-div .routeDate-div,
+    .preDodavanjaRute-container .input-div .routeEndDate-div {
+        width: 360px;
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: 20%;
+        left: 15%;
+    }
+
+    .preDodavanjaRute-container .input-div .h3 {
+        margin-bottom: 5%;
+    }
+
+    .preDodavanjaRute-container .input-div .city-select {
+        width: 206px;
+    }
+
+    .preDodavanjaRute-container .input-div .routeName-div input {
+        width: 198px;
+    }
+
+    .preDodavanjaRute-container .input-div .routeDate-div input {
+        width: 200px;
+    }
+
+    .preDodavanjaRute-container .input-div .routeEndDate-div input {
+        width: 200px;
+    }
+
+    .preDodavanjaRute-container .input-div .createRoute-button {
+        width: 360px;
+    }
+}

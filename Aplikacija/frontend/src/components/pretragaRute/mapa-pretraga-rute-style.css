@@ -1,0 +1,101 @@
+.mapaPretragaRute-container {
+    display: flex;
+    height: 100%;
+    width: 100vw;
+}
+
+.mapaPretragaRute-container .sidebar {
+    flex: 0 0 25%;
+    background-color: #f8f8f8;
+    overflow-y: scroll;
+}
+
+.mapaPretragaRute-container .sidebar>p {
+    background-color: #2e6d9c;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost {
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: #fefefe;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .naziv,
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .opis,
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .cena,
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .radno-vreme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+}
+
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .naziv p {
+    margin: 0;
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .opis p,
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .cena p,
+.mapaPretragaRute-container .prikaz-rute-div-znamenitost .radno-vreme .p {
+    margin: 0;
+    margin-bottom: 5px;
+    font-style: italic;
+    text-align: center;
+}
+
+.mapaPretragaRute-container .prikaz-rute-slika-znamenitost {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.mapaPretragaRute-container .cenaRute {
+    position: absolute;
+    right: 2%;
+    top: 1%;
+    z-index: 500;
+    background-color: #2e6d9c;
+    color: #fff;
+    padding: 0 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.mapaPretragaRute-container .popup {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.mapaPretragaRute-container .popup img {
+    margin-top: 10px;
+    padding: 0;
+}
+
+.mapaPretragaRute-container .popup p {
+    margin: 0;
+    padding: 3px 0px;
+}
+
+.mapaPretragaRute-container .popup p .bold {
+    font-weight: bold;
+}

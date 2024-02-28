@@ -1,0 +1,366 @@
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\backend vscode.exe
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\backend vscode.deps.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\backend vscode.runtimeconfig.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\backend vscode.pdb
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.AssemblyInfo.cs
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets\msbuild.backend vscode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets\msbuild.build.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\scopedcss\bundle\backend vscode.styles.css
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.csproj.CopyComplete
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\refint\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.pdb
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\backend vscode.genruntimeconfig.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend vscode\obj\Debug\net7.0\ref\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.exe
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.deps.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.runtimeconfig.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.pdb
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfo.cs
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CopyComplete
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\refint\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.pdb
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.genruntimeconfig.cache
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\ref\backend vscode.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend vscode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend vscode.props
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\scopedcss\bundle\backend vscode.styles.css
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Scrutor.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\HP\Desktop\tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.Development.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.exe
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.deps.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.runtimeconfig.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.pdb
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Humanizer.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.Data.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Scrutor.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.CodeDom.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Text.Json.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.AssemblyReference.cache
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfoInputs.cache
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfo.cs
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CoreCompileInputs.cache
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cs
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cache
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend vscode.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend vscode.props
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend vscode.props
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend vscode.props
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.build.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.development.json
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\scopedcss\bundle\backend vscode.styles.css
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CopyComplete
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\refint\backend vscode.dll
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.pdb
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.genruntimeconfig.cache
+c:\Fakultet\Tripko_dev\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\ref\backend vscode.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.exe
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.deps.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.runtimeconfig.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.pdb
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Scrutor.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfoInputs.cache
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfo.cs
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend vscode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend vscode.props
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend vscode.props
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend vscode.props
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\scopedcss\bundle\backend vscode.styles.css
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CopyComplete
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\refint\backend vscode.dll
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.pdb
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.genruntimeconfig.cache
+C:\Users\stefa\Documents\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\ref\backend vscode.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.Development.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\appsettings.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.exe
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.deps.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.runtimeconfig.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\backend vscode.pdb
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Humanizer.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.Data.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Scrutor.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Text.Json.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.AssemblyReference.cache
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfoInputs.cache
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.AssemblyInfo.cs
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CoreCompileInputs.cache
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cs
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.MvcApplicationPartsAssemblyInfo.cache
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend vscode.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend vscode.props
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend vscode.props
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend vscode.props
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\scopedcss\bundle\backend vscode.styles.css
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.csproj.CopyComplete
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\refint\backend vscode.dll
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.pdb
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\backend vscode.genruntimeconfig.cache
+D:\Git_clone_Tripko\si.23.65.tripko\Aplikacija\backend\obj\Debug\net7.0\ref\backend vscode.dll

@@ -1,0 +1,12 @@
+.power-vodic-marker-popup{
+    display:flex;
+    flex-direction: row;
+}
+
+.power-vodic-marker-div-checkbox{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:15px;
+    
+}

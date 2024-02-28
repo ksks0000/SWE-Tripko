@@ -1,0 +1,298 @@
+.tourGuides-container {
+  position: relative;
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.tourGuides-container .page-section {
+  padding: 6rem 0;
+}
+
+.tourGuides-container .page-section h2.section-heading,
+.tourGuides-container .page-section .section-heading.h2 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.tourGuides-container .page-section h3.section-subheading,
+.tourGuides-container .page-section .section-subheading.h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 768px) {
+  .tourGuides-container section {
+    padding: 9rem 0;
+  }
+}
+
+.tourGuides-container .bg-light {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+
+
+.tourGuides-container .container {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .tourGuides-container .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .tourGuides-container .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .tourGuides-container .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .tourGuides-container .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .tourGuides-container .container {
+    max-width: 1320px;
+  }
+}
+
+.tourGuides-container .text-center {
+  text-align: center !important;
+}
+
+.tourGuides-container .h3,
+.tourGuides-container .h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.tourGuides-container .h2 {
+  font-size: calc(1.325rem + 0.9vw);
+}
+
+@media (min-width: 1200px) {
+  .tourGuides-container .h2 {
+    font-size: 2rem;
+  }
+}
+
+.tourGuides-container .h3 {
+  font-size: calc(1.3rem + 0.6vw);
+}
+
+@media (min-width: 1200px) {
+  .tourGuides-container .h3 {
+    font-size: 1.75rem;
+  }
+}
+
+.tourGuides-container .text-uppercase {
+  text-transform: uppercase !important;
+}
+
+.tourGuides-container .text-muted {
+  --bs-text-opacity: 1;
+  color: #6c757d !important;
+}
+
+.tourGuides-container .row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+
+.tourGuides-container .row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: var(--bs-gutter-y);
+}
+
+@media (min-width: 992px) {
+  .tourGuides-container .col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+}
+
+.tourGuides-container .team-member {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.tourGuides-container .team-member img {
+  width: 14rem;
+  height: 14rem;
+  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+
+.tourGuides-container .team-member .h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
+.tourGuides-container .h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.tourGuides-container .h4 {
+  font-size: calc(1.275rem + 0.3vw);
+}
+
+@media (min-width: 1200px) {
+  .tourGuides-container .h4 {
+    font-size: 1.5rem;
+  }
+}
+
+.tourGuides-container .mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.tourGuides-container .rounded-circle {
+  border-radius: 50% !important;
+}
+
+.tourGuides-container .btn {
+  --bs-btn-padding-x: 0.75rem;
+  --bs-btn-padding-y: 0.375rem;
+  --bs-btn-font-family: ;
+  --bs-btn-font-size: 1rem;
+  --bs-btn-font-weight: 400;
+  --bs-btn-line-height: 1.5;
+  --bs-btn-color: #212529;
+  --bs-btn-bg: transparent;
+  --bs-btn-border-width: 1px;
+  --bs-btn-border-color: transparent;
+  --bs-btn-border-radius: 0.375rem;
+  --bs-btn-hover-border-color: transparent;
+  --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+  --bs-btn-disabled-opacity: 0.65;
+  --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+  display: inline-block;
+  padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
+  font-family: var(--bs-btn-font-family);
+  font-size: var(--bs-btn-font-size);
+  font-weight: var(--bs-btn-font-weight);
+  line-height: var(--bs-btn-line-height);
+  color: var(--bs-btn-color);
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+  border-radius: var(--bs-btn-border-radius);
+  background-color: var(--bs-btn-bg);
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tourGuides-container .btn {
+    transition: none;
+  }
+}
+
+.tourGuides-container .btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: var(--bs-btn-hover-bg);
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+.tourGuides-container .btn:disabled,
+.tourGuides-container .btn.disabled {
+  color: var(--bs-btn-disabled-color);
+  pointer-events: none;
+  background-color: var(--bs-btn-disabled-bg);
+  border-color: var(--bs-btn-disabled-border-color);
+  opacity: var(--bs-btn-disabled-opacity);
+}
+
+.tourGuides-container .btn-dark {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #212529;
+  --bs-btn-border-color: #212529;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #424649;
+  --bs-btn-hover-border-color: #373b3e;
+  --bs-btn-focus-shadow-rgb: 66, 70, 73;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #4d5154;
+  --bs-btn-active-border-color: #373b3e;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #212529;
+  --bs-btn-disabled-border-color: #212529;
+}
+
+.tourGuides-container .btn-social {
+  height: 2.5rem;
+  width: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-radius: 100%;
+}
+
+.tourGuides-container .mx-2 {
+  margin-right: 0.5rem !important;
+  margin-left: 0.5rem !important;
+}
+
+@media (min-width: 992px) {
+  .tourGuides-container .col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+}
+
+.tourGuides-container *,
+.tourGuides-container *::before,
+.tourGuides-container *::after {
+  box-sizing: border-box;
+}

@@ -1,0 +1,546 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.signInUp-container * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.signInUp-container {
+    /*background: #f6f5f7;
+    background: #243B55;  
+    background: -webkit-linear-gradient(to right, #4d5a6a, #141E30);  
+    background: linear-gradient(to right, #4d5a6a, #141E30); */
+    background: url('../images/background-image.jpg');
+    background-size: cover;
+    display: grid;
+    place-content: center;
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+
+}
+
+:root {
+    --linear-grad: linear-gradient(to right, #243B55, #2e6d9c);
+    --grad-clr1: #243B55;
+    --grad-clr2: #2e6d9c;
+    /*#2a5555
+    #244848*/
+    /*#1d3636
+    #326262*/
+    /* plave: #141E30, #243B55 */
+}
+
+.signInUp-container h1 {
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 12px;
+    color: var(--grad-clr1)
+}
+
+.signInUp-container p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    margin: 25px 0 35px;
+}
+
+.signInUp-container span {
+    font-size: 12px;
+}
+
+.signInUp-container a {
+    color: #333;
+    font-size: 14px;
+    text-decoration: none;
+    margin: 15px 0;
+}
+
+.signInUp-container button {
+    border-radius: 20px;
+    border: 1px solid var(--grad-clr1);
+    background: var(--grad-clr2);
+    color: #FFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+.signInUp-container button:active {
+    transform: scale(0.95);
+}
+
+.signInUp-container button:focus {
+    outline: none;
+}
+
+.signInUp-container button.ghost {
+    background-color: transparent;
+    border-color: #FFFFFF;
+}
+
+.signInUp-container .form-container button {
+    margin-top: 17px;
+    transition: 80ms ease-in;
+}
+
+.signInUp-container .form-container button:hover {
+    background: #FFF;
+    color: var(--grad-clr1);
+}
+
+.signInUp-container form {
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+}
+
+.signInUp-container #Form2 {
+    position: relative;
+    left: 0;
+}
+
+.signInUp-container .infield {
+    position: relative;
+    margin: 8px 0px;
+    width: 100%;
+}
+
+.signInUp-container input {
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+    padding: 12px 15px;
+    width: 100%;
+}
+
+.signInUp-container label {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    transform: translateX(-50%);
+    width: 0%;
+    height: 2px;
+    background: #243B55;
+    transition: 0.3s;
+}
+
+.signInUp-container input:focus~label {
+    width: 100%;
+}
+
+.signInUp-container #First-name-label-underline {
+    left: 24%;
+}
+
+.signInUp-container #Last-name-label-underline {
+    left: 76%;
+}
+
+.signInUp-container #Password-label-underline {
+    left: 24%
+}
+
+.signInUp-container #Confirm-password-label-underline {
+    left: 76%
+}
+
+.signInUp-container #Name-div input:focus~label {
+    width: 48%;
+}
+
+.signInUp-container #Password-div input:focus~label {
+    width: 48%;
+}
+
+.signInUp-container .container {
+    background-color: #fff;
+    border-radius: 13px;
+    box-shadow: 25px 30px 55px #5557;
+    position: relative;
+    overflow: hidden;
+    width: 850px;
+    height: 550px;
+}
+
+.signInUp-container .form-container {
+    position: absolute;
+    top: 0;
+    width: 60%;
+    height: 100%;
+    transition: all 0.6s ease-in-out;
+}
+
+.sign-in-container {
+    left: 0;
+    /*
+    width: 50%;*/
+    z-index: 2;
+}
+
+.container.right-panel-active .sign-in-container {
+    /*transform: translateX(100%);*/
+    transform: translateX(20%);
+}
+
+.signInUp-container .sign-up-container {
+    left: 0;
+    width: 60%;
+    opacity: 0;
+    z-index: 1;
+}
+
+.container.right-panel-active .sign-up-container {
+    /*transform: translateX(100%);*/
+    transform: translateX(66.7%);
+    opacity: 1;
+    z-index: 5;
+    animation: show 0.6s;
+}
+
+@keyframes show {
+
+    0%,
+    49.99% {
+        opacity: 0;
+        z-index: 1;
+    }
+
+    50%,
+    100% {
+        opacity: 1;
+        z-index: 5;
+    }
+}
+
+.signInUp-container .overlay-container {
+    position: absolute;
+    top: 0;
+    left: 60%;
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+    transition: transform 0.6s ease-in-out;
+    z-index: 100;
+}
+
+.container.right-panel-active .overlay-container {
+    /*transform: translateX(-100%);*/
+    transform: translateX(-150%);
+}
+
+.signInUp-container .overlay {
+    background: var(--linear-grad);
+    color: #FFFFFF;
+    position: relative;
+    left: -100%;
+    height: 100%;
+    width: 200%;
+    transform: translateX(0);
+    transition: transform 0.6s ease-in-out;
+}
+
+.container.right-panel-active .overlay {
+    transform: translateX(50%);
+}
+
+.signInUp-container .overlay-panel {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    text-align: center;
+    top: 0;
+    height: 100%;
+    width: 50%;
+    transform: translateX(0);
+    transition: transform 0.6s ease-in-out;
+}
+
+.signInUp-container .overlay-panel h1 {
+    color: #FFF;
+    margin-bottom: 12px;
+}
+
+.signInUp-container .overlay-left {
+    /*transform: translateX(-20%);*/
+    right: 60%;
+    transform: translateX(-12%);
+}
+
+.signInUp-container .container.right-panel-active .overlay-left {
+    /*transform: translateX(0); */
+    transform: translateX(25%);
+}
+
+.signInUp-container .overlay-right {
+    right: 0;
+    transform: translateX(0);
+}
+
+.signInUp-container .container.right-panel-active .overlay-right {
+    /* transform: translateX(20%); */
+    transform: translateX(35%);
+}
+
+.social-container {
+    margin: 20px 0;
+}
+
+.social-container a {
+    border: 1px solid #DDDDDD;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.signInUp-container .btn-box {
+    width: 100%;
+    margin-top: 2px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-box #Tour-guide {
+    border: 1px solid var(--grad-clr1);
+    background: #fff;
+    color: var(--grad-clr2);
+}
+
+/*
+#Form1 {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+}
+#Form2 {
+    position: absolute;
+    width: 100%;
+    left: 500px;
+}
+*/
+
+.signInUp-container #Name-div,
+#Password-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+
+}
+
+.signInUp-container #Name-div input,
+#Password-div input {
+    width: 100%
+}
+
+.signInUp-container .phone-document-div {
+    display: none;
+}
+
+.signInUp-container #First-name-div,
+#Last-name-div,
+#Password-password-div,
+#Password-confirm-password-div {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.signInUp-container #Toggle-password {
+    position: absolute;
+    bottom: 32%;
+    right: 5%;
+}
+
+.signInUp-container select {
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+    padding: 12px 15px;
+    width: 97%;
+}
+
+.signInUp-container #Birth-and-gender-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signInUp-container #Birth-and-gender-div input {
+    width: 190%;
+}
+
+.signInUp-container #Birth-and-gender-div select {
+    position: relative;
+    width: 130%;
+    right: 30%;
+}
+
+.signInUp-container #Birth-underline {
+    margin-left: 8px;
+}
+
+.signInUp-container #Gender-input-div input:focus~label {
+    width: 66%;
+    left: 32%;
+}
+
+@media only screen and (max-width: 850px) {
+    .signInUp-container .container {
+        flex-direction: column;
+        width: 600px;
+    }
+
+    .signInUp-container h1 {
+        margin-right: 10px;
+    }
+
+    ;
+
+    .signInUp-container form .infield {
+        margin: 5px 0px;
+    }
+
+    .signInUp-container #First-name-div
+
+    /*, #Password-password-div*/
+        {
+        margin-right: 3px;
+    }
+
+    .signInUp-container #Last-name-div
+
+    /*, #Password-confirm-password-div*/
+        {
+        margin-left: 3px;
+    }
+
+    .signInUp-container #Gender-input-div {
+        width: 32%;
+    }
+
+    .signInUp-container #Birth-underline {
+        left: 30%;
+        margin-left: 0px;
+    }
+
+    .signInUp-container #Gender-input-div input:focus~label {
+        width: 60%;
+    }
+
+    .signInUp-container #Birth-and-gender-div select {
+        position: relative;
+        right: 0%;
+        width: 100%;
+    }
+
+    .signInUp-container #Password-div {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .signInUp-container #Password {
+        margin-bottom: 8px;
+    }
+
+    .signInUp-container #Confirm-password {
+        margin-top: 8px;
+    }
+
+    .signInUp-container #Toggle-password {
+        position: absolute;
+        top: 10%;
+        right: 5%;
+    }
+
+    .signInUp-container #Tour-guide,
+    #Sign-up-button {
+        padding: 10px;
+        margin: 10px 0 0;
+    }
+
+    .signInUp-container .phone-document-div {
+        margin-bottom: 0px;
+    }
+
+    .signInUp-container #Form1 h1 {
+        font-size: 20px;
+    }
+}
+
+.signInUp-container #Input-file {
+    display: none;
+}
+
+.signInUp-container #Input-document {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #fff;
+    color: #2e6d9c;
+    outline: none;
+    padding: 10px 0px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    margin-bottom: auto;
+    margin-top: 10px;
+}
+
+.signInUp-container #Phone-underline {
+    top: 40px;
+}
+
+.show-phone-document-div {
+    display: block;
+}
+
+
+.signInUp-container .popup {
+    width: 400px;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform 0.4s, top 0.4s;
+    text-align: center;
+    padding: 0 30px 30px;
+    visibility: hidden;
+}
+
+.signInUp-container .open-popup {
+    visibility: visible;
+    top: 50%;
+    z-index: 2;
+}
+
+.signInUp-container .open-popup img {
+    width: 100%;
+}

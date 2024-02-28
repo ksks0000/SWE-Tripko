@@ -1,0 +1,26 @@
+.mainPage-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.show-markers-button {
+  position: fixed;
+  bottom: 10%;
+  right: 2%;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 30px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #2e6c9ce7;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+}
+
+.show-markers-button:hover {
+  background-color: #00a0c7;
+}

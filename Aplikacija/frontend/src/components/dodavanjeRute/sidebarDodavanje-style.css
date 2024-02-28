@@ -1,0 +1,94 @@
+.slidebarDodavanje-container {
+    background-color: #f8f8f8;
+    padding: 20px;
+    flex: 0 0 25%;
+}
+
+.slidebarDodavanje-container h3 {
+    font-size: 28px;
+    border-radius: 5px;
+    background-color: #aad3df;
+    padding: 8px 20px;
+    overflow-wrap: break-word;
+    text-align: center;
+    /* width: fit-content; */
+}
+
+.slidebarDodavanje-container .sidebar-dodavanje-button {
+    background-color: #237cc9;
+    position: fixed;
+    z-index: 500;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 15px 45px;
+    border-radius: 15px;
+    color: #f8f8f8;
+    border: none;
+    cursor: pointer;
+    bottom: 2%;
+    width: 19%;
+}
+
+.slidebarDodavanje-container .sidebar-dodavanje-button:hover {
+    background-color: #aad3df;
+    color: black;
+}
+
+.slidebarDodavanje-container .logo-div {
+    width: 100%;
+}
+
+.slidebarDodavanje-container .logo-div img {
+    width: 100%;
+}
+
+.slidebarDodavanje-container .markeri h4 {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost {
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: #fefefe;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .naziv,
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .opis,
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .cena {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+}
+
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .naziv p {
+    margin: 0;
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .opis p {
+    margin: 0;
+    margin-bottom: 5px;
+    font-style: italic;
+    text-align: center;
+}
+
+.slidebarDodavanje-container .prikaz-rute-div-znamenitost .cena p {
+    margin: 0;
+    font-style: italic;
+    text-align: center;
+}
+
+.slidebarDodavanje-container .prikaz-rute-slika-znamenitost {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}

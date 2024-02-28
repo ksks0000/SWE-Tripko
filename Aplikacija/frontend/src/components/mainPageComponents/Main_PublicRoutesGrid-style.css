@@ -1,0 +1,335 @@
+.publicRoutes-container {
+  position: relative;
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.publicRoutes-container .page-section {
+  /*padding: 6rem 0;*/
+  padding-bottom: 0;
+}
+
+.publicRoutes-container .page-section h2.section-heading,
+.publicRoutes-container .page-section .section-heading.h2 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  background-color: #88674c43;
+}
+
+.publicRoutes-container .page-section h3.section-subheading,
+.publicRoutes-container .page-section .section-subheading.h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 768px) {
+  .publicRoutes-container section {
+    padding: 9rem 0;
+  }
+}
+
+.publicRoutes-container .bg-light {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+
+
+.publicRoutes-container .container {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .publicRoutes-container .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .publicRoutes-container .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .publicRoutes-container .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .publicRoutes-container .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .publicRoutes-container .container {
+    max-width: 1320px;
+  }
+}
+
+.publicRoutes-container .text-center {
+  text-align: center !important;
+}
+
+.publicRoutes-container .h3,
+.publicRoutes-container .h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.publicRoutes-container .h2 {
+  font-size: calc(1.325rem + 0.9vw);
+}
+
+@media (min-width: 1200px) {
+  .publicRoutes-container .h2 {
+    font-size: 2rem;
+  }
+}
+
+.publicRoutes-container .h3 {
+  font-size: calc(1.3rem + 0.6vw);
+}
+
+@media (min-width: 1200px) {
+  .publicRoutes-container .h3 {
+    font-size: 1.75rem;
+  }
+}
+
+.publicRoutes-container .text-uppercase {
+  text-transform: uppercase !important;
+}
+
+.publicRoutes-container .text-muted {
+  --bs-text-opacity: 1;
+  color: #6c757d !important;
+}
+
+
+.publicRoutes-container .row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+
+.publicRoutes-container .row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: var(--bs-gutter-y);
+}
+
+@media (min-width: 992px) {
+  .publicRoutes-container .col-lg-4 {
+    flex: 0 0 auto;
+    justify-content: center;
+    width: 33.33333333%;
+  }
+}
+
+/*
+@media (min-width: 1200px) {
+  .publicRoutes-container .col-lg-4 {
+    flex: 0 0 auto;
+    justify-content: center;
+    width: 33.33333333%;
+  }
+}*/
+
+@media (min-width: 576px) {
+  .publicRoutes-container .col-sm-6 {
+    flex: 0 0 auto;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .publicRoutes-container .mb-lg-0 {
+    margin-bottom: 0 !important;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.publicRoutes-container .mb-4 {
+  margin-bottom: 1.5rem !important;
+  display: flex;
+  justify-content: center;
+}
+
+.publicRoutes-container #publicroutes .route-item {
+  max-width: 26rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* .publicRoutes-container #publicroutes .route-item .route-link {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+}
+
+.publicRoutes-container #publicroutes .route-item .route-link .portfolio-hover .portfolio-hover-content {
+  font-size: 1.25rem;
+  color: white;
+}
+
+.publicRoutes-container #publicroutes .route-item .route-link:hover .portfolio-hover {
+  opacity: 1;
+}
+
+.publicRoutes-container #publicroutes .route-item .route-caption {
+  padding: 1.5rem;
+  text-align: center;
+  background-color: #fff;
+} */
+
+.publicRoutes-container .route-caption-heading {
+  font-size: 1.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  margin-bottom: 0;
+
+}
+
+.publicRoutes-container .route-caption-subheading {
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.publicRoutes-container .route-caption-heading {
+  font-size: 1.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.publicRoutes-container .route-caption-subheading {
+  font-style: italic;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.publicRoutes-container .modal {
+  --bs-modal-zindex: 1055;
+  --bs-modal-width: 500px;
+  --bs-modal-padding: 1rem;
+  --bs-modal-margin: 0.5rem;
+  --bs-modal-color: ;
+  --bs-modal-bg: #fff;
+  --bs-modal-border-color: var(--bs-border-color-translucent);
+  --bs-modal-border-width: 1px;
+  --bs-modal-border-radius: 0.5rem;
+  --bs-modal-box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  --bs-modal-inner-border-radius: calc(0.5rem - 1px);
+  --bs-modal-header-padding-x: 1rem;
+  --bs-modal-header-padding-y: 1rem;
+  --bs-modal-header-padding: 1rem 1rem;
+  --bs-modal-header-border-color: var(--bs-border-color);
+  --bs-modal-header-border-width: 1px;
+  --bs-modal-title-line-height: 1.5;
+  --bs-modal-footer-gap: 0.5rem;
+  --bs-modal-footer-bg: ;
+  --bs-modal-footer-border-color: var(--bs-border-color);
+  --bs-modal-footer-border-width: 1px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: var(--bs-modal-zindex);
+  display: none;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: 0;
+}
+
+@media (min-width: 576px) {
+  .publicRoutes-container .modal {
+    --bs-modal-margin: 1.75rem;
+    --bs-modal-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+}
+
+.publicRoutes-container .img-fluid {
+  max-width: 100%;
+  border-radius: 5%;
+}
+
+.publicRoutes-container *,
+.publicRoutes-container *::before,
+.publicRoutes-container *::after {
+  box-sizing: border-box;
+}
+
+.publicRoutes-container a {
+  color: var(--bs-link-color);
+  text-decoration: underline;
+}
+
+.publicRoutes-container a:hover {
+  color: var(--bs-link-hover-color);
+}
+
+@media (max-width: 1200px) {
+  .publicRoutes-container .size-1200px {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+.publicRoutes-container .see-more-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.publicRoutes-container .see-more-div button {
+  border: none;
+  outline: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #2e6d9c;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: transparent;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+}
+
+.publicRoutes-container .see-more-div button:hover {
+  border-bottom: 2px solid #2e6d9c;
+}

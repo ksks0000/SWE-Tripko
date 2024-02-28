@@ -1,0 +1,91 @@
+.footer-container {
+  position: relative;
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.footer-container .footer {
+  background-color: #2e6d9c;
+  opacity: 90%;
+  color: #fff;
+  text-align: center;
+  font-size: 0.9rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.footer-container .py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.footer-container .container {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .footer-container .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .footer-container .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .footer-container .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .footer-container .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .footer-container .container {
+    max-width: 1320px;
+  }
+}
+
+
+.footer-container .row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+
+.footer-container .row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: var(--bs-gutter-y);
+}
+
+.footer-container .align-items-center {
+  align-items: center !important;
+}
